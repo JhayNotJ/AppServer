@@ -3,5 +3,9 @@
     "name": "Annual Company Picnic",
     "location": "Central Park, New York",
     "date": "2023-09-15"
-  }
+  },"server":{
+    "name": "Anton",
+    "name": "You",
+    "name": "Can",
+}
 }
