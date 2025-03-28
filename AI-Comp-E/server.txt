@@ -6,6 +6,6 @@
     "Freemium": "No"
   },
   "server": {
-    "name": ["Anton", "You_prem", "Can"]
+    "name": ["Anton", "You_exp", "Can"]
   }
 }
