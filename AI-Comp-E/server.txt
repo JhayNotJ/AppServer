@@ -1,0 +1,7 @@
+{
+  "event": {
+    "name": "Annual Company Picnic",
+    "location": "Central Park, New York",
+    "date": "2023-09-15"
+  }
+}
