@@ -1,11 +1,20 @@
 {
   "event": {
-    "name": "Annual Company Picnic",
-    "location": "Central Park, New York",
-    "date": "2023-09-15",
+    "versionCode": 1.9,
+    "url": "https://github.com/JhayNotJ/AppsUpdate/raw/main/AI-Companion%20E_1.9.apk",
+    "update_msg": "",
     "Freemium": "No"
   },
   "server": {
-    "name": ["Anton", "You_prem 29", "Can"]
+    "DevID": [
+      "3b24c034ecf8642e",
+      "934a8d96e6deedc8",
+      "934a8d96e6deeda7"
+    ],
+    "Subs": [
+      "March 30, 2023",
+      "April 1, 2023",
+      "April 2, 2023"
+    ]
   }
 }
