@@ -7,7 +7,7 @@
   },
   "server": {
     "DevID": [
-      "",
+      "3b24c034ecf8642e",
       "934a8d96e6deedc8",
       "934a8d96e6deeda7"
     ],
