@@ -2,7 +2,7 @@
   "info": {
     "versionCode": 2.0,
     "url": "https://github.com/JhayNotJ/AppsUpdate/raw/main/AI-Companion%20E_2.0.apk",
-    "update_msg": "2.0 is Here",
+    "update_msg": "2.0 is Here!",
     "Freemium": "No"
   },
   "server": {
