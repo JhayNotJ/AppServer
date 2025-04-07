@@ -1,4 +1,4 @@
-up{
+{
   "info": {
     "versionCode": 2.1,
     "url": "https://github.com/JhayNotJ/AppsUpdate/raw/main/AI-Companion%20E_2.1.apk",
