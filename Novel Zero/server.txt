@@ -1,0 +1,7 @@
+{
+  "info": {
+    "versionCode": 1.0,
+    "url": "",
+    "update_msg": ""
+    }
+}
