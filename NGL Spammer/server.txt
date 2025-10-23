@@ -1,0 +1,9 @@
+{
+  "versionCode": 1.6,
+  "url":  "https://github.com/JhayNotJ/AppsUpdate/raw/main/NGL%20Spammer_1.6.apk",
+  "update_msg": "-Small Changes\n-Optimized Apps"
+}
+
+3b24c034ecf8642e 934a8d96e6deedc8 1e53f32ea734ea98
+e02dc5682eae07ad dab4c626ad755923 5eeff271c3b4c8a2
+ffda3e8bc7357362 1a09b83168fc6d52 046c93f5ac9735b4
