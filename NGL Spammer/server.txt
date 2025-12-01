@@ -1,7 +1,7 @@
 {
-  "versionCode": 1.9,
-  "url": "https://github.com/JhayNotJ/AppsUpdate/raw/refs/heads/main/NGL%20Spammer_1.9.apk",
-  "update_msg": "-Fixed unable to update"
+  "versionCode": 2.0,
+  "url": "https://github.com/JhayNotJ/AppsUpdate/raw/refs/heads/main/NGL%20Spammer_2.0.apk",
+  "update_msg": "-Welcome 2.0"
 }
 
 3b24c034ecf8642e 934a8d96e6deedc8 1e53f32ea734ea98
