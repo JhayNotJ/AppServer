@@ -1,7 +1,7 @@
 {
-  "versionCode": 2.0,
-  "url": "",
-  "update_msg": "-"
+  "versionCode": 2.1,
+  "url": "https://github.com/JhayNotJ/AppsUpdate/raw/refs/heads/main/FBNC%20v2_2.1.apk",
+  "update_msg": "-FAQ Added"
 }
 
 3b24c034ecf8642e 98b5b3037e861168 b97455afad930830 c28664e5b7d75c3a
